@@ -1,0 +1,1 @@
+Core, edge, host devices
